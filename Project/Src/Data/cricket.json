@@ -1,0 +1,1004 @@
+{
+    "results": [
+        {
+            "id": 2737677,
+            "series_id": 1457,
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2023-04-23T02:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Thailand Women v Zimbabwe Women at Terdthai Cricket Ground, Bangkok, ODI.",
+            "match_subtitle": "3rd ODI",
+            "home": {
+                "id": 240,
+                "name": "Thailand Women",
+                "code": "THW"
+            },
+            "away": {
+                "id": 232068,
+                "name": "Zimbabwe Women",
+                "code": ""
+            }
+        },
+        {
+            "id": 2735991,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-04-23T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Singapore v United Arab Emirates at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "11th Match, Group B",
+            "home": {
+                "id": 120111,
+                "name": "Singapore",
+                "code": ""
+            },
+            "away": {
+                "id": 348,
+                "name": "United Arab Emirates",
+                "code": "UAE"
+            }
+        },
+        {
+            "id": 2735993,
+            "series_id": 1456,
+            "venue": "Mulpani Cricket Ground",
+            "date": "2023-04-23T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Malaysia v Oman at Mulpani Cricket Ground, T20I.",
+            "match_subtitle": "12th Match, Group A",
+            "home": {
+                "id": 120093,
+                "name": "Malaysia",
+                "code": ""
+            },
+            "away": {
+                "id": 300,
+                "name": "Oman",
+                "code": "OMN"
+            }
+        },
+        {
+            "id": 2719025,
+            "series_id": 1430,
+            "venue": "M Chinnaswamy Stadium, Bengaluru (day/night)",
+            "date": "2023-04-23T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Royal Challengers Bangalore v Rajasthan Royals at M Chinnaswamy Stadium, Bengaluru (day/night), T20.",
+            "match_subtitle": "32nd Match",
+            "home": {
+                "id": 101760,
+                "name": "Royal Challengers Bangalore",
+                "code": "RCB"
+            },
+            "away": {
+                "id": 101757,
+                "name": "Rajasthan Royals",
+                "code": "RAR"
+            }
+        },
+        {
+            "id": 2737701,
+            "series_id": 1459,
+            "venue": "Lugogo Cricket Oval, Kampala",
+            "date": "2023-04-23T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "TBC v TBC at Lugogo Cricket Oval, Kampala, T20.",
+            "match_subtitle": "Final",
+            "home": {
+                "id": 233604,
+                "name": "TBC",
+                "code": ""
+            },
+            "away": {
+                "id": 233607,
+                "name": "TBC",
+                "code": ""
+            }
+        },
+        {
+            "id": 2719027,
+            "series_id": 1430,
+            "venue": "Eden Gardens, Kolkata (night)",
+            "date": "2023-04-23T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Kolkata Knight Riders v Chennai Super Kings at Eden Gardens, Kolkata (night), T20.",
+            "match_subtitle": "33rd Match",
+            "home": {
+                "id": 101751,
+                "name": "Kolkata Knight Riders",
+                "code": "KKR"
+            },
+            "away": {
+                "id": 101742,
+                "name": "Chennai Super Kings",
+                "code": "CSK"
+            }
+        },
+        {
+            "id": 2735995,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-04-24T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Bahrain v Hong Kong at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "13th Match, Group B",
+            "home": {
+                "id": 252,
+                "name": "Bahrain",
+                "code": "BHR"
+            },
+            "away": {
+                "id": 297,
+                "name": "Hong Kong",
+                "code": "HKG"
+            }
+        },
+        {
+            "id": 2735997,
+            "series_id": 1456,
+            "venue": "Mulpani Cricket Ground",
+            "date": "2023-04-24T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Nepal v Saudi Arabia at Mulpani Cricket Ground, T20I.",
+            "match_subtitle": "14th Match, Group A",
+            "home": {
+                "id": 264,
+                "name": "Nepal",
+                "code": "NEP"
+            },
+            "away": {
+                "id": 255,
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        },
+        {
+            "id": 2726909,
+            "series_id": 1443,
+            "venue": "Galle International Stadium",
+            "date": "2023-04-24T04:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Sri Lanka v Ireland at Galle International Stadium, Test.",
+            "match_subtitle": "2nd Test - Day 1",
+            "home": {
+                "id": 291,
+                "name": "Sri Lanka",
+                "code": "SRL"
+            },
+            "away": {
+                "id": 354,
+                "name": "Ireland",
+                "code": "IRE"
+            }
+        },
+        {
+            "id": 2719029,
+            "series_id": 1430,
+            "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad (night)",
+            "date": "2023-04-24T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Sunrisers Hyderabad v Delhi Capitals at Rajiv Gandhi International Stadium, Uppal, Hyderabad (night), T20.",
+            "match_subtitle": "34th Match",
+            "home": {
+                "id": 101763,
+                "name": "Sunrisers Hyderabad",
+                "code": "SUH"
+            },
+            "away": {
+                "id": 120252,
+                "name": "Delhi Capitals",
+                "code": ""
+            }
+        },
+        {
+            "id": 2679249,
+            "series_id": 1259,
+            "venue": "Rawalpindi Cricket Stadium (night)",
+            "date": "2023-04-24T16:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Pakistan v New Zealand at Rawalpindi Cricket Stadium (night), T20I.",
+            "match_subtitle": "5th T20I",
+            "home": {
+                "id": 288,
+                "name": "Pakistan",
+                "code": "PAK"
+            },
+            "away": {
+                "id": 282,
+                "name": "New Zealand",
+                "code": "NZL"
+            }
+        },
+        {
+            "id": 2730655,
+            "series_id": 1450,
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2023-04-25T02:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Thailand Women v Zimbabwe Women at Terdthai Cricket Ground, Bangkok, T20.",
+            "match_subtitle": "1st T20I",
+            "home": {
+                "id": 240,
+                "name": "Thailand Women",
+                "code": "THW"
+            },
+            "away": {
+                "id": 232068,
+                "name": "Zimbabwe Women",
+                "code": ""
+            }
+        },
+        {
+            "id": 2735999,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-04-25T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Kuwait v Singapore at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "15th Match, Group B",
+            "home": {
+                "id": 249,
+                "name": "Kuwait",
+                "code": "KWT"
+            },
+            "away": {
+                "id": 120111,
+                "name": "Singapore",
+                "code": ""
+            }
+        },
+        {
+            "id": 2736001,
+            "series_id": 1456,
+            "venue": "Mulpani Cricket Ground",
+            "date": "2023-04-25T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Malaysia v Qatar at Mulpani Cricket Ground, T20I.",
+            "match_subtitle": "16th Match, Group A",
+            "home": {
+                "id": 120093,
+                "name": "Malaysia",
+                "code": ""
+            },
+            "away": {
+                "id": 243,
+                "name": "Qatar",
+                "code": "QTR"
+            }
+        },
+        {
+            "id": 2726909,
+            "series_id": 1443,
+            "venue": "Galle International Stadium",
+            "date": "2023-04-25T04:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Sri Lanka v Ireland at Galle International Stadium, Test.",
+            "match_subtitle": "2nd Test - Day 2",
+            "home": {
+                "id": 291,
+                "name": "Sri Lanka",
+                "code": "SRL"
+            },
+            "away": {
+                "id": 354,
+                "name": "Ireland",
+                "code": "IRE"
+            }
+        },
+        {
+            "id": 2719031,
+            "series_id": 1430,
+            "venue": "Narendra Modi Stadium, Ahmedabad (night)",
+            "date": "2023-04-25T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Gujarat Titans v Mumbai Indians at Narendra Modi Stadium, Ahmedabad (night), T20.",
+            "match_subtitle": "35th Match",
+            "home": {
+                "id": 161268,
+                "name": "Gujarat Titans",
+                "code": ""
+            },
+            "away": {
+                "id": 101754,
+                "name": "Mumbai Indians",
+                "code": "MIN"
+            }
+        },
+        {
+            "id": 2730657,
+            "series_id": 1450,
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2023-04-26T02:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Thailand Women v Zimbabwe Women at Terdthai Cricket Ground, Bangkok, T20.",
+            "match_subtitle": "2nd T20I",
+            "home": {
+                "id": 240,
+                "name": "Thailand Women",
+                "code": "THW"
+            },
+            "away": {
+                "id": 232068,
+                "name": "Zimbabwe Women",
+                "code": ""
+            }
+        },
+        {
+            "id": 2736003,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-04-26T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Oman v Saudi Arabia at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "17th Match, Group A",
+            "home": {
+                "id": 300,
+                "name": "Oman",
+                "code": "OMN"
+            },
+            "away": {
+                "id": 255,
+                "name": "Saudi Arabia",
+                "code": "SAR"
+            }
+        },
+        {
+            "id": 2736005,
+            "series_id": 1456,
+            "venue": "Mulpani Cricket Ground",
+            "date": "2023-04-26T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Bahrain v United Arab Emirates at Mulpani Cricket Ground, T20I.",
+            "match_subtitle": "18th Match, Group B",
+            "home": {
+                "id": 252,
+                "name": "Bahrain",
+                "code": "BHR"
+            },
+            "away": {
+                "id": 348,
+                "name": "United Arab Emirates",
+                "code": "UAE"
+            }
+        },
+        {
+            "id": 2726909,
+            "series_id": 1443,
+            "venue": "Galle International Stadium",
+            "date": "2023-04-26T04:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Sri Lanka v Ireland at Galle International Stadium, Test.",
+            "match_subtitle": "2nd Test - Day 3",
+            "home": {
+                "id": 291,
+                "name": "Sri Lanka",
+                "code": "SRL"
+            },
+            "away": {
+                "id": 354,
+                "name": "Ireland",
+                "code": "IRE"
+            }
+        },
+        {
+            "id": 2737995,
+            "series_id": 1461,
+            "venue": "Coolidge Cricket Ground, Antigua",
+            "date": "2023-04-26T13:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Team Weekes v West Indies Academy at Coolidge Cricket Ground, Antigua, First Class.",
+            "match_subtitle": "2nd Match",
+            "home": {
+                "id": 233115,
+                "name": "Team Weekes",
+                "code": ""
+            },
+            "away": {
+                "id": 201069,
+                "name": "West Indies Academy",
+                "code": ""
+            }
+        },
+        {
+            "id": 2719033,
+            "series_id": 1430,
+            "venue": "M Chinnaswamy Stadium, Bengaluru (night)",
+            "date": "2023-04-26T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Royal Challengers Bangalore v Kolkata Knight Riders at M Chinnaswamy Stadium, Bengaluru (night), T20.",
+            "match_subtitle": "36th Match",
+            "home": {
+                "id": 101760,
+                "name": "Royal Challengers Bangalore",
+                "code": "RCB"
+            },
+            "away": {
+                "id": 101751,
+                "name": "Kolkata Knight Riders",
+                "code": "KKR"
+            }
+        },
+        {
+            "id": 2736009,
+            "series_id": 1456,
+            "venue": "Mulpani Cricket Ground",
+            "date": "2023-04-27T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Hong Kong v Kuwait at Mulpani Cricket Ground, T20I.",
+            "match_subtitle": "20th Match, Group B",
+            "home": {
+                "id": 297,
+                "name": "Hong Kong",
+                "code": "HKG"
+            },
+            "away": {
+                "id": 249,
+                "name": "Kuwait",
+                "code": "KWT"
+            }
+        },
+        {
+            "id": 2736007,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-04-27T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Nepal v Qatar at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "19th Match, Group A",
+            "home": {
+                "id": 264,
+                "name": "Nepal",
+                "code": "NEP"
+            },
+            "away": {
+                "id": 243,
+                "name": "Qatar",
+                "code": "QTR"
+            }
+        },
+        {
+            "id": 2726909,
+            "series_id": 1443,
+            "venue": "Galle International Stadium",
+            "date": "2023-04-27T04:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Sri Lanka v Ireland at Galle International Stadium, Test.",
+            "match_subtitle": "2nd Test - Day 4",
+            "home": {
+                "id": 291,
+                "name": "Sri Lanka",
+                "code": "SRL"
+            },
+            "away": {
+                "id": 354,
+                "name": "Ireland",
+                "code": "IRE"
+            }
+        },
+        {
+            "id": 2694453,
+            "series_id": 1261,
+            "venue": "Lord's, London",
+            "date": "2023-04-27T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Middlesex v Kent at Lord's, London, First Class.",
+            "match_subtitle": "",
+            "home": {
+                "id": 120792,
+                "name": "Middlesex",
+                "code": ""
+            },
+            "away": {
+                "id": 120786,
+                "name": "Kent",
+                "code": ""
+            }
+        },
+        {
+            "id": 2694455,
+            "series_id": 1261,
+            "venue": "Edgbaston, Birmingham",
+            "date": "2023-04-27T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Warwickshire v Surrey at Edgbaston, Birmingham, First Class.",
+            "match_subtitle": "",
+            "home": {
+                "id": 142683,
+                "name": "Warwickshire",
+                "code": ""
+            },
+            "away": {
+                "id": 120807,
+                "name": "Surrey",
+                "code": ""
+            }
+        },
+        {
+            "id": 2694333,
+            "series_id": 1262,
+            "venue": "Riverside Ground, Chester-le-Street",
+            "date": "2023-04-27T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Durham v Derbyshire at Riverside Ground, Chester-le-Street, First Class.",
+            "match_subtitle": "",
+            "home": {
+                "id": 120768,
+                "name": "Durham",
+                "code": ""
+            },
+            "away": {
+                "id": 120771,
+                "name": "Derbyshire",
+                "code": ""
+            }
+        },
+        {
+            "id": 2694335,
+            "series_id": 1262,
+            "venue": "County Ground, Bristol",
+            "date": "2023-04-27T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Gloucestershire v Sussex at County Ground, Bristol, First Class.",
+            "match_subtitle": "",
+            "home": {
+                "id": 120801,
+                "name": "Gloucestershire",
+                "code": ""
+            },
+            "away": {
+                "id": 120789,
+                "name": "Sussex",
+                "code": ""
+            }
+        },
+        {
+            "id": 2694337,
+            "series_id": 1262,
+            "venue": "Grace Road, Leicester",
+            "date": "2023-04-27T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Leicestershire v Glamorgan at Grace Road, Leicester, First Class.",
+            "match_subtitle": "",
+            "home": {
+                "id": 120774,
+                "name": "Leicestershire",
+                "code": ""
+            },
+            "away": {
+                "id": 120783,
+                "name": "Glamorgan",
+                "code": ""
+            }
+        },
+        {
+            "id": 2679251,
+            "series_id": 1256,
+            "venue": "Rawalpindi Cricket Stadium (day/night)",
+            "date": "2023-04-27T10:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Pakistan v New Zealand at Rawalpindi Cricket Stadium (day/night), ODI.",
+            "match_subtitle": "1st ODI",
+            "home": {
+                "id": 288,
+                "name": "Pakistan",
+                "code": "PAK"
+            },
+            "away": {
+                "id": 282,
+                "name": "New Zealand",
+                "code": "NZL"
+            }
+        },
+        {
+            "id": 2719035,
+            "series_id": 1430,
+            "venue": "Sawai Mansingh Stadium, Jaipur (night)",
+            "date": "2023-04-27T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Rajasthan Royals v Chennai Super Kings at Sawai Mansingh Stadium, Jaipur (night), T20.",
+            "match_subtitle": "37th Match",
+            "home": {
+                "id": 101757,
+                "name": "Rajasthan Royals",
+                "code": "RAR"
+            },
+            "away": {
+                "id": 101742,
+                "name": "Chennai Super Kings",
+                "code": "CSK"
+            }
+        },
+        {
+            "id": 2730659,
+            "series_id": 1450,
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2023-04-28T02:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Thailand Women v Zimbabwe Women at Terdthai Cricket Ground, Bangkok, T20.",
+            "match_subtitle": "3rd T20I",
+            "home": {
+                "id": 240,
+                "name": "Thailand Women",
+                "code": "THW"
+            },
+            "away": {
+                "id": 232068,
+                "name": "Zimbabwe Women",
+                "code": ""
+            }
+        },
+        {
+            "id": 2726909,
+            "series_id": 1443,
+            "venue": "Galle International Stadium",
+            "date": "2023-04-28T04:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Sri Lanka v Ireland at Galle International Stadium, Test.",
+            "match_subtitle": "2nd Test - Day 5",
+            "home": {
+                "id": 291,
+                "name": "Sri Lanka",
+                "code": "SRL"
+            },
+            "away": {
+                "id": 354,
+                "name": "Ireland",
+                "code": "IRE"
+            }
+        },
+        {
+            "id": 2719037,
+            "series_id": 1430,
+            "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh (night)",
+            "date": "2023-04-28T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Punjab Kings v Lucknow Super Giants at Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh (night), T20.",
+            "match_subtitle": "38th Match",
+            "home": {
+                "id": 145221,
+                "name": "Punjab Kings",
+                "code": ""
+            },
+            "away": {
+                "id": 161271,
+                "name": "Lucknow Super Giants",
+                "code": ""
+            }
+        },
+        {
+            "id": 2737679,
+            "series_id": 1450,
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2023-04-29T02:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Thailand Women v Zimbabwe Women at Terdthai Cricket Ground, Bangkok, T20.",
+            "match_subtitle": "4th T20I",
+            "home": {
+                "id": 240,
+                "name": "Thailand Women",
+                "code": "THW"
+            },
+            "away": {
+                "id": 232068,
+                "name": "Zimbabwe Women",
+                "code": ""
+            }
+        },
+        {
+            "id": 2736011,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-04-29T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "TBC v TBC at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "1st Semi-Final",
+            "home": {
+                "id": 233580,
+                "name": "TBC",
+                "code": ""
+            },
+            "away": {
+                "id": 233583,
+                "name": "TBC",
+                "code": ""
+            }
+        },
+        {
+            "id": 2736013,
+            "series_id": 1456,
+            "venue": "Mulpani Cricket Ground",
+            "date": "2023-04-29T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "TBC v TBC at Mulpani Cricket Ground, T20I.",
+            "match_subtitle": "2nd Semi-Final",
+            "home": {
+                "id": 233586,
+                "name": "TBC",
+                "code": ""
+            },
+            "away": {
+                "id": 233589,
+                "name": "TBC",
+                "code": ""
+            }
+        },
+        {
+            "id": 2719039,
+            "series_id": 1430,
+            "venue": "Eden Gardens, Kolkata (day/night)",
+            "date": "2023-04-29T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Kolkata Knight Riders v Gujarat Titans at Eden Gardens, Kolkata (day/night), T20.",
+            "match_subtitle": "39th Match",
+            "home": {
+                "id": 101751,
+                "name": "Kolkata Knight Riders",
+                "code": "KKR"
+            },
+            "away": {
+                "id": 161268,
+                "name": "Gujarat Titans",
+                "code": ""
+            }
+        },
+        {
+            "id": 2679253,
+            "series_id": 1256,
+            "venue": "Rawalpindi Cricket Stadium (day/night)",
+            "date": "2023-04-29T10:30:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Pakistan v New Zealand at Rawalpindi Cricket Stadium (day/night), ODI.",
+            "match_subtitle": "2nd ODI",
+            "home": {
+                "id": 288,
+                "name": "Pakistan",
+                "code": "PAK"
+            },
+            "away": {
+                "id": 282,
+                "name": "New Zealand",
+                "code": "NZL"
+            }
+        },
+        {
+            "id": 2719041,
+            "series_id": 1430,
+            "venue": "Arun Jaitley Stadium, Delhi (night)",
+            "date": "2023-04-29T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Delhi Capitals v Sunrisers Hyderabad at Arun Jaitley Stadium, Delhi (night), T20.",
+            "match_subtitle": "40th Match",
+            "home": {
+                "id": 120252,
+                "name": "Delhi Capitals",
+                "code": ""
+            },
+            "away": {
+                "id": 101763,
+                "name": "Sunrisers Hyderabad",
+                "code": "SUH"
+            }
+        },
+        {
+            "id": 2736015,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-04-30T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "TBC v TBC at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "3rd Place Play-off",
+            "home": {
+                "id": 233592,
+                "name": "TBC",
+                "code": ""
+            },
+            "away": {
+                "id": 233595,
+                "name": "TBC",
+                "code": ""
+            }
+        },
+        {
+            "id": 2719043,
+            "series_id": 1430,
+            "venue": "MA Chidambaram Stadium, Chepauk, Chennai (day/night)",
+            "date": "2023-04-30T10:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Chennai Super Kings v Punjab Kings at MA Chidambaram Stadium, Chepauk, Chennai (day/night), T20.",
+            "match_subtitle": "41st Match",
+            "home": {
+                "id": 101742,
+                "name": "Chennai Super Kings",
+                "code": "CSK"
+            },
+            "away": {
+                "id": 145221,
+                "name": "Punjab Kings",
+                "code": ""
+            }
+        },
+        {
+            "id": 2719045,
+            "series_id": 1430,
+            "venue": "Wankhede Stadium, Mumbai (night)",
+            "date": "2023-04-30T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Mumbai Indians v Rajasthan Royals at Wankhede Stadium, Mumbai (night), T20.",
+            "match_subtitle": "42nd Match",
+            "home": {
+                "id": 101754,
+                "name": "Mumbai Indians",
+                "code": "MIN"
+            },
+            "away": {
+                "id": 101757,
+                "name": "Rajasthan Royals",
+                "code": "RAR"
+            }
+        },
+        {
+            "id": 2739867,
+            "series_id": 1444,
+            "venue": "Bangladesh Krira Shikkha Protisthan No 4 Ground, Savar",
+            "date": "2023-05-01T03:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Agrani Bank Cricket Club v Dhaka Leopards at Bangladesh Krira Shikkha Protisthan No 4 Ground, Savar, List A.",
+            "match_subtitle": "Relegation League",
+            "home": {
+                "id": 231357,
+                "name": "Agrani Bank Cricket Club",
+                "code": ""
+            },
+            "away": {
+                "id": 231360,
+                "name": "Dhaka Leopards",
+                "code": ""
+            }
+        },
+        {
+            "id": 2739861,
+            "series_id": 1444,
+            "venue": "Khan Shaheb Osman Ali Stadium, Fatullah",
+            "date": "2023-05-01T03:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Sheikh Jamal v Gazi Group Cricketers at Khan Shaheb Osman Ali Stadium, Fatullah, List A.",
+            "match_subtitle": "Super League",
+            "home": {
+                "id": 144153,
+                "name": "Sheikh Jamal",
+                "code": ""
+            },
+            "away": {
+                "id": 144156,
+                "name": "Gazi Group Cricketers",
+                "code": ""
+            }
+        },
+        {
+            "id": 2739863,
+            "series_id": 1444,
+            "venue": "Shere Bangla National Stadium, Mirpur",
+            "date": "2023-05-01T03:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Abahani Limited v Mohammedan Sporting Club at Shere Bangla National Stadium, Mirpur, List A.",
+            "match_subtitle": "Super League",
+            "home": {
+                "id": 144177,
+                "name": "Abahani Limited",
+                "code": ""
+            },
+            "away": {
+                "id": 144162,
+                "name": "Mohammedan Sporting Club",
+                "code": ""
+            }
+        },
+        {
+            "id": 2739865,
+            "series_id": 1444,
+            "venue": "Bangladesh Krira Shikkha Protisthan No 3 Ground, Savar",
+            "date": "2023-05-01T03:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Legends of Rupganj v Prime Bank Cricket Club at Bangladesh Krira Shikkha Protisthan No 3 Ground, Savar, List A.",
+            "match_subtitle": "Super League",
+            "home": {
+                "id": 144171,
+                "name": "Legends of Rupganj",
+                "code": ""
+            },
+            "away": {
+                "id": 144159,
+                "name": "Prime Bank Cricket Club",
+                "code": ""
+            }
+        },
+        {
+            "id": 2736017,
+            "series_id": 1456,
+            "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+            "date": "2023-05-01T03:15:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "TBC v TBC at Tribhuvan University International Cricket Ground, Kirtipur, T20I.",
+            "match_subtitle": "Final",
+            "home": {
+                "id": 233598,
+                "name": "TBC",
+                "code": ""
+            },
+            "away": {
+                "id": 233601,
+                "name": "TBC",
+                "code": ""
+            }
+        },
+        {
+            "id": 2719047,
+            "series_id": 1430,
+            "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow (night)",
+            "date": "2023-05-01T14:00:00+00:00",
+            "status": "Fixture",
+            "result": "",
+            "match_title": "Lucknow Super Giants v Royal Challengers Bangalore at Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow (night), T20.",
+            "match_subtitle": "43rd Match",
+            "home": {
+                "id": 161271,
+                "name": "Lucknow Super Giants",
+                "code": ""
+            },
+            "away": {
+                "id": 101760,
+                "name": "Royal Challengers Bangalore",
+                "code": "RCB"
+            }
+        }
+    ]
+}

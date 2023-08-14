@@ -29,6 +29,9 @@ npm i react-native-svg
 npm i --save-dev react-native-svg-transformer
 yarn add react-native-progress-bar-animated
 yarn add react-native-progress
+npm i react-native-dropdown-select-list
+npm install react-native-google-places-autocomplete react-native-maps react-native-geolocation-service
+
 
 
 yarn add react-native-picker-select

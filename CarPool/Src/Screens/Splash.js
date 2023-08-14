@@ -1,16 +1,18 @@
 import React,{useEffect,useState} from 'react'
-import {View,StyleSheet,Image,Text,Dimensions,TouchableOpacity} from 'react-native';
+import {View,StyleSheet,Image,Text} from 'react-native';
 
-import Boarding from './Boarding';
+import Boarding from '../Components/Splash/Boarding';
+import SplashWelcomeBack from '../Components/Splash/SplashWelcomeBack';
 
 import Logo from '../Pictures/boarding1.svg';
 
 
-const Splash = () => {
+const Splash = ({navigation}) => {
 
     //useStates
     const [progress, setProgress] = useState(1/3);
     const [loading,setLoading] = useState(true);
+    const [loadingWelcome,setLoadingWelcome] = useState(true)
     const [Heading,setHeading] = useState('Shared Express');
     const [subHeading,setsubHeading] = useState("Share your ride, save big with Shared Express - Real time ride sharing on your fingertips.");
     
@@ -18,7 +20,7 @@ const Splash = () => {
     useEffect(()=>{
         setTimeout(()=>{
             setLoading(false)
-        },0)}
+        },3000)}
     ,[])
 
     function loader(){
@@ -41,14 +43,25 @@ const Splash = () => {
                 setsubHeading("Get to Your Destination in a Flash with Rapid Express - The Fastost WaY to BOOk Your Rider");                
             }
         }
+        else
+        {
+            setLoadingWelcome(false);
+        }
+    }
+
+    function navigateToRegisterScreen(){
+        navigation.navigate('Register')
     }
 
     return (
         loading?( /*Splash Screen*/
                 <View style={styles.splashStyle}> 
                     <Image source={require('../Pictures/splash.png')} />
-                </View>)
-            :(<Boarding Logo={Logo} progress={progress} Heading={Heading} subHeading={subHeading} loader={loader}/>)
+                </View>) :
+                (loadingWelcome? 
+                    (<Boarding Logo={Logo} progress={progress} Heading={Heading} subHeading={subHeading} loader={loader}/>)
+                : (<SplashWelcomeBack navigateToRegisterScreen = {navigateToRegisterScreen}/>)
+                )
     )
 }
 
@@ -60,6 +73,23 @@ const styles = StyleSheet.create(
             alignItems:'center',
             justifyContent:'center',
         },
+        appButtonContainer: {
+            elevation: 8,
+            backgroundColor: "#4b3acc",
+            textAlign:'center',
+            color: 'white',
+            borderRadius: 10,
+            paddingVertical: 10,
+            paddingHorizontal: 12,
+            margin: 40
+          },
+          appButtonText: {
+            fontSize: 18,
+            color: "#fff",
+            fontWeight: "bold",
+            alignSelf: "center",
+            textTransform: "uppercase"
+          }
     }
 )
 

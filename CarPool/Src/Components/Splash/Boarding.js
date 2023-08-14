@@ -1,10 +1,8 @@
 import React,{useEffect,useState} from 'react'
 import {View,StyleSheet,Image,Text,Dimensions,TouchableOpacity} from 'react-native';
 
-
-import ProgressBar from '../Tools/ProgressBar';
-
-import Arrow from '../Pictures/Arrow.svg';
+import ProgressBar from './SubComponents/ProgressBar';
+import Arrow from '../../Pictures/Arrow.svg';
 
 const Boarding = ({Logo, progress, Heading, subHeading, loader}) => {
 
